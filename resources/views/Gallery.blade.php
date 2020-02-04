@@ -24,7 +24,7 @@
 	<script type="text/javascript" src="js/functions.js"></script>
 
 	<header>
-		<div class="container header_top">
+		 <div class="container header_top">
 			<div class="row">
 				<div class="col-sm-8 top_left">
 					<a href="#"><i class="fa fa-phone"></i> +628 570 521 0610</a>
